@@ -1,0 +1,259 @@
+# depslib dependency file v1.0
+1374445285 source:/home/marius/Desktop/GameSDL/CApp_onCleanup.cpp
+	"CApp.h"
+
+1374445156 /home/marius/Desktop/GameSDL/CApp.h
+	<SDL/SDL.h>
+	<iostream>
+	<cmath>
+	<vector>
+	"CSurface.h"
+	"CGem.h"
+	"CEvent.h"
+
+1374331610 /home/marius/Desktop/GameSDL/CSurface.h
+	<SDL/SDL.h>
+	"SDL_image.h"
+
+1374443320 source:/home/marius/Desktop/GameSDL/CApp_onEvent.cpp
+	"CApp.h"
+
+1374445193 source:/home/marius/Desktop/GameSDL/CApp_onInit.cpp
+	"CApp.h"
+	"CGem.h"
+	<cstdlib>
+	<ctime>
+
+1374445285 source:/home/marius/Desktop/GameSDL/CApp_onRender.cpp
+	"CApp.h"
+
+1374452221 source:/home/marius/Desktop/GameSDL/main.cpp
+	<iostream>
+	"CApp.h"
+
+1327665706 /usr/include/SDL/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1327665706 /usr/include/SDL/SDL_platform.h
+
+1327665706 /usr/include/SDL/begin_code.h
+
+1327665706 /usr/include/SDL/close_code.h
+
+1327665706 /usr/include/SDL/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_keysym.h
+
+1327665706 /usr/include/SDL/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1327665706 /usr/include/SDL/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1374336642 source:/home/marius/Desktop/GameSDL/CSurface.cpp
+	"CSurface.h"
+	"SDL_image.h"
+
+1325206088 /usr/include/SDL/SDL_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1374442264 source:/home/marius/Desktop/GameSDL/CApp_onLoop.cpp
+	"CApp.h"
+
+1374451591 source:/home/marius/Desktop/GameSDL/CGem.cpp
+	"CGem.h"
+	"SDL_image.h"
+
+1374451591 /home/marius/Desktop/GameSDL/CGem.h
+	<SDL/SDL.h>
+	"SDL_image.h"
+
+1374442381 source:/home/marius/Desktop/GameSDL/CApp_putGem.cpp
+	"CApp.h"
+
+1374442492 /home/marius/Desktop/GameSDL/CEvent.h
+	<SDL/SDL.h>
+
+1374442474 source:/home/marius/Desktop/GameSDL/CEvent.cpp
+	"CEvent.h"
+	<iostream>
+
+1374441851 source:/home/marius/Desktop/GameSDL/CApp_neighbours.cpp
+	"CApp.h"
+
+1374453768 source:/home/marius/Desktop/GameSDL/CApp_collapseCase.cpp
+	"CApp.h"
+
+1374453105 source:/home/marius/Desktop/GameSDL/CApp_makeSwitchGems.cpp
+	"CApp.h"
+
+1374453273 source:/home/marius/Desktop/GameSDL/CApp_collapseGems.cpp
+	"CApp.h"
+
+1374453273 source:/home/marius/Desktop/GameSDL/CApp_verifyAllMatrix.cpp
+	"CApp.h"
+

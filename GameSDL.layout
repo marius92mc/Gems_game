@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="CApp.h" open="1" top="0" tabpos="2">
+		<Cursor position="1298" topLine="30" />
+	</File>
+	<File name="CApp_collapseCase.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="504" topLine="99" />
+	</File>
+	<File name="CApp_collapseGems.cpp" open="1" top="0" tabpos="17">
+		<Cursor position="13472" topLine="270" />
+	</File>
+	<File name="CApp_makeSwitchGems.cpp" open="1" top="1" tabpos="16">
+		<Cursor position="240" topLine="0" />
+	</File>
+	<File name="CApp_neighbours.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="1374" topLine="12" />
+	</File>
+	<File name="CApp_onCleanup.cpp" open="1" top="0" tabpos="12">
+		<Cursor position="114" topLine="0" />
+	</File>
+	<File name="CApp_onEvent.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="487" topLine="0" />
+	</File>
+	<File name="CApp_onInit.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="584" topLine="0" />
+	</File>
+	<File name="CApp_onLoop.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="218" topLine="0" />
+	</File>
+	<File name="CApp_onRender.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="245" topLine="0" />
+	</File>
+	<File name="CApp_putGem.cpp" open="1" top="0" tabpos="13">
+		<Cursor position="452" topLine="7" />
+	</File>
+	<File name="CApp_verifyAllMatrix.cpp" open="1" top="0" tabpos="18">
+		<Cursor position="548" topLine="12" />
+	</File>
+	<File name="CEvent.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="2022" topLine="78" />
+	</File>
+	<File name="CGem.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="906" topLine="33" />
+	</File>
+	<File name="CGem.h" open="1" top="0" tabpos="5">
+		<Cursor position="347" topLine="0" />
+	</File>
+	<File name="CSurface.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="367" topLine="0" />
+	</File>
+	<File name="CSurface.h" open="1" top="0" tabpos="3">
+		<Cursor position="158" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1103" topLine="39" />
+	</File>
+</CodeBlocks_layout_file>
