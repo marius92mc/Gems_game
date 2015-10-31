@@ -1,5 +1,7 @@
 #include "CApp.h"
 
+//the indentation is lovely
+
 bool CApp::collapseCase()
 {
             // try switch gems to see what happens
@@ -80,8 +82,8 @@ bool CApp::collapseCase()
                     return true;
                 }
 
-                            // case when the switched gem goes in the middle of the 3, minimum 3
-                    // for first neighbour
+                        // case when the switched gem goes in the middle of the 3, minimum 3
+                        // for first neighbour
     if (neighbour1.x >= 2 && neighbour1.x <= 7 &&
         a[neighbour1.x][neighbour1.y]->getId() == a[neighbour1.x-1][neighbour1.y]->getId() &&
         a[neighbour1.x][neighbour1.y]->getId() == a[neighbour1.x+1][neighbour1.y]->getId())
