@@ -32,7 +32,7 @@ class CApp : public CEvent
 
     public:
         CApp();             // constructor
-        ~CApp();                // destructor
+        ~CApp();            // destructor
         int onExecute();
 
         bool onInit();
